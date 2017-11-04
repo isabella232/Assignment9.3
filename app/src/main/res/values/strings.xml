@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment9.3</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_send_sms">Send SMS</string>
+</resources>
